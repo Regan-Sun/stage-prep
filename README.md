@@ -10,7 +10,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 名称 | `dagaopei-stage-prep` |
+| 名称 | `speech-stage-prep` |
 | 中文名 | 演讲上台准备助手 |
 | 英文名 | Speech Stage Preparation Assistant |
 | 版本 | 1.0.0 |

@@ -1,5 +1,5 @@
 ---
-name: dagaopei-stage-prep
+name: speech-stage-prep
 display_name: 演讲上台准备助手
 display_name_en: Speech Stage Preparation Assistant
 description: 为演讲稿规划身眼手步，或根据演练视频做带时间码、截图和台词语境的证据式半自动复盘；适用于上台准备、肢体语言排练和重录对比，不做全自动评分。
