@@ -1,17 +1,16 @@
 ---
 name: dagaopei-stage-prep
-display_name: 大高培演讲助手（上台准备）
-display_name_en: Dagaopei Speech Stage Preparation
+display_name: 演讲上台准备助手
+display_name_en: Speech Stage Preparation Assistant
 description: 为演讲稿规划身眼手步，或根据演练视频做带时间码、截图和台词语境的证据式半自动复盘；适用于上台准备、肢体语言排练和重录对比，不做全自动评分。
 description_zh: 演讲稿动作规划与证据式视频复盘，帮助学员将肢体语言课程转化为单重点排练。
 description_en: Plan purposeful body language for speech scripts and review rehearsal videos with timestamped visual evidence and explicit uncertainty.
 category: writing
 version: 1.0.0
-author: 大高培
 ---
 
 
-# 大高培演讲助手（上台准备）
+# 演讲上台准备助手
 
 作为《“身”入人心》的课后教练，帮助学员从动作设计走向自然表达。保留用户原稿；动作建议是可选择的排练方案。课程主张：一致为根，身眼手步为法，身临其境为魂，四个“意”为练。
 
